@@ -24,7 +24,14 @@ https://www.google.com/maps/place/Unity+patong/@7.8960798,98.2876124,15z/data=!4
 - 人妖表演 ：`19：30 PM`
 ```
 表演场次：每天演出三场，第一场18：00、第二场19：30、第三场21：00（每场演出时长为80分钟左右）
-景点地址:位于芭东海滩南部，地址：8SiriachRoadPatongBeach,PatongBeach
+景点地址:位于芭东海滩南部，地址：8SiriachRoadPatongBeach,PatongBeach   Simon cabaret
+```
+```
+https://www.google.com/maps/place/%E8%A5%BF%E8%92%99%E4%BA%BA%E5%A6%96%E7%A7%80/@7.8787672,98.2920958,15z/data=!4m5!3m4!1s0x0:0x48b99767cccaf753!8m2!3d7.8787672!4d98.2920958
+```
+- 摩托车相机 出租  Hotel Ginger House
+```
+https://www.google.com/maps/place/Hotel+Ginger+House/@7.8883033,98.293637,17z/data=!3m1!4b1!4m7!3m6!1s0x30503aba84cda633:0xad30ce38c3d9da18!5m1!1s2018-09-04!8m2!3d7.888298!4d98.295831
 ```
 - 返回公寓 :`21:30 PM`
 
